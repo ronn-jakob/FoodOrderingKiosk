@@ -40,7 +40,7 @@ git clone https://github.com/yourusername/FastFoodOrderingSystem.git
 2. Import the database from the provided SQL file
    - Open **MySQL Workbench**.
    - Go to the **Administration** tab > **Data Import/Restore**.
-   - Select **Import from Self-Contained File** and choose the `KioskDBsql` file from this project.
+   - Select **Import from Self-Contained File** and choose the `KioskDB.sql` file from this project.
    - Set the **Default Target Schema** to `KioskDB`
    - Click **Start Import**.
 4. Configure the database connection
